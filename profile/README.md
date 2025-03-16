@@ -28,6 +28,6 @@ We welcome contributions from students, educators, and tech enthusiasts. Here’
 ## Connect With Us
 🌐 https://www.aiat.in/
 📩 Email: tech@aiat.in
-📌 Location: Auroville, Tamil Nadu, India  
+📌 Location: Aurobrindavan, Palmyra Cricket Ground, Auroville, Tamil Nadu, India
 
 Let's build a better future through technology and innovation! 🚀
