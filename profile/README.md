@@ -26,8 +26,8 @@ We welcome contributions from students, educators, and tech enthusiasts. Here’
 4. **Collaborate** on innovative ideas
 
 ## Connect With Us
-🌐 https://www.aiat.in/
-📩 Email: tech@aiat.in
-📌 Location: Aurobrindavan, Palmyra Cricket Ground, Auroville, Tamil Nadu, India
+🌐 https://www.aiat.in/  
+📩 Email: tech@aiat.in  
+📌 Location: Aurobrindavan, Palmyra Cricket Ground, Auroville, Tamil Nadu, India  
 
 Let's build a better future through technology and innovation! 🚀
