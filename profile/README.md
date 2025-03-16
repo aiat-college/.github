@@ -8,7 +8,7 @@ AIAT is dedicated to providing high-quality vocational and technical education, 
 ## Our Mission
 - 📚 Create an environment for **learning and creativity**
 - 🔬 Encourage **innovation and problem-solving**
-- 🤝 Collaborate with industry professionals and experts
+- 🤝 Collaborate with **industry professionals and experts**
 - 🌍 Contribute to **sustainable and technology-driven solutions**
 
 ## Projects
