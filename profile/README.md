@@ -26,9 +26,9 @@ We welcome contributions from students, educators, and tech enthusiasts. Here’
 4. **Collaborate** on innovative ideas
 
 ## Connect With Us
-🌐 **Website:** https://www.aiat.in/  
+🌐 **Website:** https://aiat.edu.in/  
 📩 **Email:** tech@aiat.in  
 📌 **Location:** Aurobrindavan, Palmyra Cricket Ground, Auroville, Tamil Nadu, India  
-❤️ **For Donations:** https://www.aiat.in/donate or https://give.aviusa.org/page/AIAT  
+❤️ **For Donations:** https://aiat.edu.in/donate or https://give.aviusa.org/page/AIAT  
 
 Let's build a better future through technology and innovation! 🚀
